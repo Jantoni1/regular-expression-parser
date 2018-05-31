@@ -1,0 +1,6 @@
+#ifndef REGULAR_EXPRESSION_LIBRARY_TEST_MAIN_H
+#define REGULAR_EXPRESSION_LIBRARY_TEST_MAIN_H
+
+#include <boost/test/included/unit_test.hpp>
+
+#endif //REGULAR_EXPRESSION_LIBRARY_TEST_MAIN_H
